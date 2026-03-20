@@ -23,6 +23,7 @@ Bootstrap – Responsive UI components
 👩‍💻 Author
 
 Chavi Rathi
+
 Aspiring Web Developer passionate about building user-friendly web applications.
 
 📌 Project Status
