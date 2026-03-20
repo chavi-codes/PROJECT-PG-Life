@@ -2,6 +2,8 @@
 
 PGLife is a modern web application designed to help users easily find and explore paying guest (PG) accommodations. It provides a smooth and user-friendly experience for students and working professionals searching for suitable housing options.
 
+LINK-> http://127.0.0.1/PGlife/
+
 🚀 Features
 
 🔍 PG Property Listings – Browse multiple PG accommodations with ease
